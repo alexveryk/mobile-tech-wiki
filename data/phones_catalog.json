@@ -1,0 +1,37 @@
+{
+    "smartphones": {
+      "samsung": [
+        {
+          "model": "Samsung Galaxy S21",
+          "screen": "Dynamic AMOLED 2X, 6.2 дюйма",
+          "processor": "Exynos 2100 / Snapdragon 888",
+          "cell": "12MP + 64MP + 12MP",
+          "battery": "4000 мАг"
+        },
+        {
+          "model": "Samsung Galaxy Note 20 Ultra",
+          "screen": "Dynamic AMOLED 2X, 6.9 дюйма",
+          "processor": "Exynos 990 / Snapdragon 865+",
+          "cell": "108MP + 12MP + 12MP",
+          "battery": "4500 мАг"
+        }
+      ],
+      "xiaomi": [
+        {
+          "model": "Xiaomi Mi 11",
+          "screen": "AMOLED, 6.81 дюйма",
+          "processor": "Snapdragon 888",
+          "cell": "108MP + 13MP + 5MP",
+          "battery": "4600 мАг"
+        },
+        {
+          "model": "Xiaomi Redmi Note 10 Pro",
+          "screen": "AMOLED, 6.67 дюйма",
+          "processor": "Snapdragon 732G",
+          "cell": "108MP + 8MP + 5MP + 2MP",
+          "battery": "5020 мАг"
+        }
+      ]
+    }
+  }
+  
