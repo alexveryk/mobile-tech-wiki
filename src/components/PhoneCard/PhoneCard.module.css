@@ -1,0 +1,31 @@
+/* *{
+    outline: 1px solid tomato;
+} */
+
+.phoneCard {
+    width: 480px;
+    border: 1px solid #555151;
+    border-radius: 8px;
+    display: flex;
+    
+}
+
+.PhoneCardImg {
+    border-bottom: 1px solid #555151;
+    padding: 4px;
+}
+
+.PhoneCardName {
+    margin-right: 24px;
+}
+
+.characteristics {
+    padding: 8px;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
