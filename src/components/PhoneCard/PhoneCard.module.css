@@ -3,29 +3,64 @@
 } */
 
 .phoneCard {
-    width: 480px;
-    border: 1px solid #555151;
-    border-radius: 8px;
-    display: flex;
-    
+  width: 480px;
+  border: 1px solid #555151;
+  border-radius: 8px;
+  display: flex;
 }
 
 .PhoneCardImg {
-    border-bottom: 1px solid #555151;
-    padding: 4px;
+  border-bottom: 1px solid #555151;
+  padding: 4px;
 }
 
 .PhoneCardName {
-    margin-right: 24px;
+  margin-right: 24px;
 }
 
 .characteristics {
-    padding: 8px;
+  padding: 8px;
 }
 
 .title {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
 }
 
+/* * {
+  outline: 1px solid tomato;
+} */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+/* test */
+
+.card {
+  width: 360px;
+  border: 1px solid rgba(100, 100, 111, 0.2);
+  border-radius: 8px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.phoneName {
+  padding: 12px 0;
+}
+
+.haracteristic {
+  display: flex;
+  padding: 8px;
+}
+
+.price {
+  padding: 12px 0 12px 0;
+  background-color: rgba(100, 100, 111, 0.2);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
